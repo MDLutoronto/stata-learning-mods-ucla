@@ -1,8 +1,11 @@
 ---
 title: "Stata Learning Modules (UCLA)"
 layout: "home"
-description: ""
+description: "Comprehensive set of guides that include installing Stata, learning Stata fundamentals including graphics and advanced data analysis examples."
 permalink: "/"  #! Remove this if not the homepage
+maintainer:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 ---
 
 # Stata Learning Modules (UCLA)
@@ -15,4 +18,6 @@ Link:
 
 <http://stats.idre.ucla.edu/stata/>
 
-Tools: [Stata](/tools/stata)**Date Created:** 2017\-05\-05**Updated:** 2018\-05\-17
+Tools: [Stata](/tools/stata)
+
+**Date Created:** 2017\-05\-05 **Updated:** 2018\-05\-17
