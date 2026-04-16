@@ -18,6 +18,6 @@ Link:
 
 <http://stats.idre.ucla.edu/stata/>
 
-Tools: [Stata](/tools/stata)
+**Tools:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)
 
 **Date Created:** 2017\-05\-05 **Updated:** 2018\-05\-17
