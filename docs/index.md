@@ -6,6 +6,7 @@ permalink: "/"  #! Remove this if not the homepage
 maintainer:
  - name: Nadia Muhe
    link: https://library.utoronto.ca/staff/nadia-muhe
+created_date: 2017-05-05
 ---
 
 # Stata Learning Modules (UCLA)
@@ -19,5 +20,3 @@ Link:
 <http://stats.idre.ucla.edu/stata/>
 
 **Tools:** [Stata](https://mdlutoronto.github.io/tutorials-search/?tool=Stata)
-
-**Date Created:** 2017\-05\-05 **Updated:** 2018\-05\-17
